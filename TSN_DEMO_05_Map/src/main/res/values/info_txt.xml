@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Центр города Павлодар</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               Город, находящийся в северо-восточном Казахстане,
+               в 450 км к северо-востоку от столицы страны города Астаны на реке Иртыш, <br>
+               административный центр Павлодарской области. <br>
+               В физико-географическом отношении Павлодар находится на Западно-Сибирской равнине.<BR>
+               В городе находятся нефтеперерабатывающий, химический, алюминиевый, электролизный, металлургический, картонно-рубероидный, машиностроительный заводы. <br>
+               <br><br>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">ПГУ</string>
+    <string name="marker1_txt_click">Павлодарский Государственный Университет им. С. Торайгырова</string>
+    <string name="marker1_info">
+        <![CDATA[
+        Toraighyrov university (TOU) – один из крупнейших университетов Казахстана. <BR>
+        TOU является центром образования, науки и культуры не только в Павлодарском регионе, <BR>
+        но и в Республике.<BR>
+        Toraighyrov university был создан в мае 1960 года <BR>
+        Постановлением Совета Министров СССР от 20 сентября 1960 года
+        <BR>как Павлодарский индустриальный институт (ПИИ).
+        <BR>Размещался институт в двух казармах и 10 одноэтажных бараках
+        <BR>бывшего 24-го военного училища. На трех факультетах - машиностроительном,
+        <BR>инженерно-строительном и энергетическом - обучалось 400 студентов.
+        <BR>Занятия вели 16 преподавателей,
+        <BR>из которых только один имел ученое звание доцента.<BR>
+        140008, г. Павлодар, ул. Ломова,64<BR>
+        Тел.: 8(7182) 67-36-85, факс: 8(7182) 67-37-02
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/PGU/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">ТРЦ BatyrMall
+</string>
+    <string name="marker2_txt_click">Торговый центр BatyrMall</string>
+    <string name="marker2_info">
+        <![CDATA[
+        Торгово-развлекательный центр BatyrMall находится по адресу Камзина 67/1.<br>
+        Внутри есть множество различных казахстанских и зарубежных брендовых магазинов.<br>
+        Также есть фудкорт, каток, боулинг и кинотеатр.
+        График работы: ежедневно с 10:00–22:00<br>
+        Сайт: batyrmall.kz <br>
+        Телефон: 66-15-70 <BR>
+        Instagram: @batyrmall<BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/BM/index.html</string>
+
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Парк Гагарина</string>
+    <string name="marker3_txt_click">Парк Гагарина</string>
+    <string name="marker3_info">
+        <![CDATA[
+        Парк Гагарина находится рядом с пересечением улицы Камзина и Чокина.
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/PARK/index.html</string>
+
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">ГДК им. Естая</string>
+    <string name="marker4_txt_click">Городской дворец культуры имени Естая в г. Павлодар</string>
+    <string name="marker4_info">
+        <![CDATA[
+        <b>Городской дворец культуры имени Естая в г. Павлодар</b> <BR>
+        В феврале 1997 г. решением акима г. Павлодара В.Пыхтина Дворец культуры тракторостроителей <BR>
+        передан на баланс городского управления культуры и стал именоваться Городским Дворцом культуры (ГДК). <BR>
+        В 2008 г. ГДК было присвоено имя казахского акына-импровизатора Естая.<BR>
+        Время работы: ПН-ПТ 09:00-18:00, обед 13:00-14:00<br>
+        Телефон: +7 (7182) 53‒79‒71 приемная<br>
+        +7 (7182) 53‒02‒40 касса<br>
+        +7 (7182) 53‒51‒45 вахта<br>
+        Instagram: @dk_estay_pvl) <br>
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/GDK/index.html</string>
+
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Акимат</string>
+    <string name="marker5_txt_click">Аппарат Акима Павлодарской области</string>
+    <string name="marker5_info">
+        <![CDATA[
+        <b> Аппарат Акима Павлодарской области </b><BR>
+        Павлодарская область  находится на северо-востоке Казахстана.<BR>
+        Дата образования – в январе 1938 года. Административный центр – город Павлодар.<BR>
+        Аппарат акима Павлодарской области осуществляет руководство и контроль, организационное, <BR>
+        правовое, информационно-аналитическое, консультативное и материально-техническое обеспечение деятельности акимата и акима области.<br>
+        Телефон: +7 (771) 902 94 71 <BR>
+        Сайт: http://pavlodar.gov.kz <BR>
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/AKIMAT/index.html</string>
+
+</resources>
